@@ -1,6 +1,6 @@
 package com.dilip.ccms.personalDetails;
 
-import com.dilip.ccms.ResourceNotFoundException;
+import com.dilip.ccms.exception.ResourceNotFoundException;
 import com.dilip.ccms.address.*;
 import com.dilip.ccms.user.User;
 import com.dilip.ccms.user.UserRepository;
@@ -14,7 +14,6 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
-import org.springframework.data.jpa.domain.Specification;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.dilip.ccms;
+package com.dilip.ccms.exception;
 
 public class ResourceNotFoundException extends Exception{
 
