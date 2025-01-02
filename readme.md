@@ -92,9 +92,13 @@ If you want to code frontend for this project. Ping me and we can collaborate an
 
 If you have any feedback, please reach out to us at sudheer0418@gmail.com
 
+## 🌐 Connect with Me
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dilip-sudheer.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilip-kumar-bk/)
+Let’s connect! Feel free to check out my work or reach out via:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=About.me&logoColor=white)]([https://your-portfolio-link.com](https://dilip-sudheer.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilip-kumar-bk/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A66C2?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dilipkumar_0418)
+
 
 
